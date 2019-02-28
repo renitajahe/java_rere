@@ -3,3 +3,4 @@ Tahapan membuka project :
   2. buka text editor (Netbeans IDE)
   3. buka project di text editor
   4. run project dengan mengklik fitur segitiga berwarna hijau
+  5. happy tryinggg
